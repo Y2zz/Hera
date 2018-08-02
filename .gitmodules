@@ -3,4 +3,4 @@
 	url = https://github.com/hexojs/hexo-theme-landscape.git
 [submodule "themes/polarbear"]
 	path = themes/polarbear
-	url = https://github.com/frostfan/hexo-theme-polarbear
+	url = https://github.com/Y2zz/hexo-theme-polarbear.git
