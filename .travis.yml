@@ -15,8 +15,8 @@ script:
   - hexo g
 
 after_script:
-  - mv ./CNAME ./public/CNAME
-  - cd ./public  
+  - cd ./public
+  - mv ../CNAME CNAME
   - git init
   - git config user.name "Y2zz"
   - git config user.email "yangyunzhou@foxmail.com"
