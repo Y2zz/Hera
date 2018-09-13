@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://y2zz.info
 root: /
-permalink: :year-:month-:day-:id.html
+permalink: :id.html
 permalink_defaults:
 
 # Directory
