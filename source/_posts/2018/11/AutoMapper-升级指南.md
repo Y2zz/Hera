@@ -2,6 +2,7 @@
 title: AutoMapper 升级指南
 date: 2018-11-09 13:11:13
 category:
+ - AutoMapper
 tags:
 ---
 
