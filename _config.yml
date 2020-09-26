@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.y2zz.info
+url: https://y2zz.run
 root: /
 permalink: :id.html
 permalink_defaults:
